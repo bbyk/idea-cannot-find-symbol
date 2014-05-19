@@ -10,6 +10,8 @@ import java.util.List;
 
 /**
  * Hello world!
+ * 
+ * This is going to be fixed in http://youtrack.jetbrains.com/issue/IDEA-123896
  */
 public class MyOwnMemcacheConnection extends MemcachedConnection {
     /**
